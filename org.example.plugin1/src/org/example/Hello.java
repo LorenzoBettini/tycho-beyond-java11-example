@@ -3,6 +3,7 @@ package org.example;
 public class Hello {
 
 	public String message() {
-		return "Hello";
+		var string = "Hello";
+		return string;
 	}
 }
