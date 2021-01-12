@@ -3,6 +3,10 @@ package org.example;
 public class Hello {
 
 	public String message() {
-		return "Hello";
+		var string = """
+				Hello
+				World!
+				""";
+		return string;
 	}
 }
