@@ -16,7 +16,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <tycho-version>2.2.0-SNAPSHOT</tycho-version>
+    <tycho-version>2.2.0</tycho-version>
     <eclipse-repo.url>http://download.eclipse.org/releases/2020-12</eclipse-repo.url>
     <build-helper-version>3.0.0</build-helper-version>
     <versions-version>2.7</versions-version>
@@ -32,8 +32,8 @@
 
   <pluginRepositories>
     <pluginRepository>
-      <id>tycho-snapshots</id>
-      <url>https://repo.eclipse.org/content/repositories/tycho-snapshots/</url>
+      <id>tycho-staged</id>
+      <url>https://oss.sonatype.org/content/repositories/orgeclipsetycho-1065</url>
     </pluginRepository>
   </pluginRepositories>
 
