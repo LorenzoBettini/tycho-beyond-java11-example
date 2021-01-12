@@ -4,7 +4,7 @@ Bundle-Name: %pluginName
 Bundle-SymbolicName: org.example.plugin1;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-Vendor: Lorenzo Bettini
-Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-RequiredExecutionEnvironment: JavaSE-15
 Export-Package: org.example
 Bundle-ActivationPolicy: lazy
 Automatic-Module-Name: org.example.plugin1
